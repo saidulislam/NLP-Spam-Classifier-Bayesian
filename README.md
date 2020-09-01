@@ -5,22 +5,21 @@ In this mission we will be using the Naive Bayes algorithm to create a model tha
 <br/>
 Being able to identify spam messages is a binary classification problem as messages are classified as either 'Spam' or 'Not Spam' and nothing else. Also, this is a supervised learning problem, as we will be feeding a labelled dataset into the model, that it can learn from, to make future predictions.<br/>
 
-<br/>
-<br/>
+
 ## Overview<br/>
 This project has been broken down in to the following steps:
 
 <br/>
-- Step 0: Introduction to the Naive Bayes Theorem
-- Step 1.1: Understanding our dataset
-- Step 1.2: Data Preprocessing
-- Step 2.1: Bag of Words (BoW)
-- Step 2.2: Implementing BoW from scratch
-- Step 2.3: Implementing Bag of Words in scikit-learn
-- Step 3.1: Training and testing sets
-- Step 3.2: Applying Bag of Words processing to our dataset.
-- Step 4.1: Bayes Theorem implementation from scratch
-- Step 4.2: Naive Bayes implementation from scratch
-- Step 5: Naive Bayes implementation using scikit-learn
-- Step 6: Evaluating our model
-- Step 7: Conclusion
+- Step 0: Introduction to the Naive Bayes Theorem<br/>
+- Step 1.1: Understanding our dataset<br/>
+- Step 1.2: Data Preprocessing<br/>
+- Step 2.1: Bag of Words (BoW)<br/>
+- Step 2.2: Implementing BoW from scratch<br/>
+- Step 2.3: Implementing Bag of Words in scikit-learn<br/>
+- Step 3.1: Training and testing sets<br/>
+- Step 3.2: Applying Bag of Words processing to our dataset.<br/>
+- Step 4.1: Bayes Theorem implementation from scratch<br/>
+- Step 4.2: Naive Bayes implementation from scratch<br/>
+- Step 5: Naive Bayes implementation using scikit-learn<br/>
+- Step 6: Evaluating our model<br/>
+- Step 7: Conclusion<br/>
